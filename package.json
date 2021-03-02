@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.9",
+    "lodash": "4.17.20",
     "gh-pages": "^2.0.1",
     "react": "16.7.0-alpha.2",
     "react-dom": "16.7.0-alpha.2",
