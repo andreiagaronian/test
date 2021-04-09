@@ -25,6 +25,7 @@
   "repository": "github:ForestAdmin/lumber",
   "license": "MIT",
   "dependencies": {
+    "minimist": "^1.2.0",
     "atob": "^2.1.2",
     "bluebird": "^3.4.6",
     "chalk": "^1.1.3",
